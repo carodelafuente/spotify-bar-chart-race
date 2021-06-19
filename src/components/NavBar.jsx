@@ -9,8 +9,7 @@ function NavBar() {
         <AppBar position='static' style={{background: 'rgba(0,0,0,.7)', color: 'white', padding: '5px'}}>
           <ToolBar>
               <SocialIcon url='https://www.spotify.com/us/' />
-            <Typography >
-            </Typography>
+
           </ToolBar>
         </AppBar>
   )

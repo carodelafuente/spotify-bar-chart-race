@@ -6,24 +6,16 @@ import Paper from '@material-ui/core/Paper'
 
 import { makeStyles } from '@material-ui/core/styles';
 
-const useStyles = makeStyles((theme) => ({
-  box:  {
-    padding: '20px',
-    marginTop: '10%',
-  }
-}));
+let useTheme = makeStyles((theme) =>  {
 
+})
 
 function Playlist() {
 
-  const classes = useStyles();
-
   return(
-    <Card className={classes.box}>
-      <Grid item>
-        <Paper/>
-      </ Grid>
-    </Card>
+    <div >
+
+    </div>
   )
 }
 

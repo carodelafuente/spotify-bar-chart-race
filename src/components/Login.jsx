@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import Button from '@material-ui/core/Button';
-import Container from '@material-ui/core/Container';
 import Card from '@material-ui/core/Card';
 import Grid from '@material-ui/core/Grid';
-import Paper from '@material-ui/core/Paper'
+import IconButton from '@material-ui/core/IconButton';
+import InputAdornment from '@material-ui/core/InputAdornment';
 import Textfield from '@material-ui/core/Textfield';
 import Typography from '@material-ui/core/Typography';
 
@@ -11,9 +11,16 @@ import { makeStyles, ThemeProvider, createMuiTheme} from '@material-ui/core/styl
 
 
 const useStyles = makeStyles((theme) => ({
-  box:  {
+  login:  {
     padding: '20px',
     marginTop: '10%'
+  },
+  text:  {
+    margin: '1em',
+    width: '80%'
+  },
+  button: {
+    marginLeft: '1em'
   }
 }));
 
@@ -23,22 +30,22 @@ function Login()  {
   const classes = useStyles();
 
   return(
-    <Card className={classes.box}>
-      <Typography variant='p'>
-        Sign in to your acccount.
-      </Typography>
-      <form>
-        <Grid item>
-          <Textfield id='username' label='Username' style={{ margin: 10 }} />
-          <Textfield id='password' label='Password' style={{ margin: 10 }} />
+      <Card className={classes.login}>
+        <Typography variant='h6' style={{marginLeft: '20px'}}>
+          Sign in.
+        </Typography>
+        <Grid container spacing={3} justify='flex-start'>
+          <Grid item>
+            <Textfield variant='filled' id='username' label='Username' className={classes.text}/>
+            <Textfield variant='filled' id='password' label='Password' className={classes.text}/>
+          </ Grid>
+          <Grid item>
+            <Button size='large' variant='contained' color='primary' className={classes.button} style={{ color: 'white'}}>
+              Log In
+            </Button>
+          < /Grid>
         </ Grid>
-        <Grid item>
-          <Button size='large' variant='contained' color='primary' style={{ color: 'white', margin: 10 }}>
-            Log In
-          </Button>
-        </ Grid>
-      </form>
-    </ Card>
+      </ Card>
   )
 }
 

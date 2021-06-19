@@ -9,10 +9,11 @@ import Grid from '@material-ui/core/Grid';
 function Main() {
 
   return(
-      <div className='main-contain'>
-        <Login />
-        <Playlist style={{border: '1px solid black'}}/>
-      </div>
+      <Grid container justify='center' alignItems="center">
+        <Grid item xs={11} sm={4}>
+          <Login />
+        </ Grid>
+      </ Grid>
   )
 }
 
