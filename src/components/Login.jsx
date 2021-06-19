@@ -13,14 +13,14 @@ import { makeStyles, ThemeProvider, createMuiTheme} from '@material-ui/core/styl
 const useStyles = makeStyles((theme) => ({
   login:  {
     padding: '20px',
-    marginTop: '10%'
+    marginTop: '10%',
   },
   text:  {
-    margin: '1em',
-    width: '80%'
+    margin: '10px',
+    minWidth: '80%'
   },
   button: {
-    marginLeft: '1em'
+    marginLeft: '10px'
   }
 }));
 

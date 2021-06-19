@@ -10,7 +10,7 @@ function Main() {
 
   return(
       <Grid container justify='center' alignItems="center">
-        <Grid item xs={11} sm={4}>
+        <Grid item xs={11} sm={6} md={5} lg={4} xl={1}>
           <Login />
         </ Grid>
       </ Grid>
