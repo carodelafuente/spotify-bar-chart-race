@@ -7,15 +7,25 @@ import Main from './components/Main.jsx';
 
 // Style
 import './App.css';
+import { ThemeProvider, createMuiTheme} from '@material-ui/core/styles';
+
+const theme = createMuiTheme({
+  palette:  {
+    primary:  {
+      main: '#1db954'
+    },
+  }
+});
+
 
 
 function App() {
 
   return (
-      <div className='all'>
+      <ThemeProvider theme={theme}>
         <NavBar />
         <Main />
-      </div>
+      </ ThemeProvider>
   );
 }
 
