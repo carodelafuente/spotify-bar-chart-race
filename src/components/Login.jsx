@@ -7,7 +7,7 @@ import InputAdornment from '@material-ui/core/InputAdornment';
 import Textfield from '@material-ui/core/Textfield';
 import Typography from '@material-ui/core/Typography';
 
-import { makeStyles, ThemeProvider, createMuiTheme} from '@material-ui/core/styles';
+import { makeStyles } from '@material-ui/core/styles';
 
 
 const useStyles = makeStyles((theme) => ({
@@ -24,15 +24,14 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
+function Login(props)  {
 
-
-function Login()  {
   const classes = useStyles();
 
   return(
       <Card className={classes.login}>
         <Typography variant='h6' style={{marginLeft: '20px'}}>
-          Sign in.
+          Log in.
         </Typography>
         <Grid container spacing={3} justify='flex-start'>
           <Grid item>
@@ -40,7 +39,7 @@ function Login()  {
             <Textfield variant='filled' id='password' label='Password' className={classes.text}/>
           </ Grid>
           <Grid item>
-            <Button size='large' variant='contained' color='primary' className={classes.button} style={{ color: 'white'}}>
+            <Button onClick={()=> props.setLoggedIn(!props.loggedIn)} size='large' variant='contained' color='primary' className={classes.button} style={{ color: 'white'}}>
               Log In
             </Button>
           < /Grid>

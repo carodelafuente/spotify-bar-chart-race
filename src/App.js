@@ -1,5 +1,5 @@
 // Dependencies
-import React from 'react';
+import { React, useState } from 'react';
 
 // Components
 import NavBar from './components/NavBar.jsx';
@@ -18,13 +18,20 @@ const theme = createMuiTheme({
 });
 
 
-
 function App() {
+
+  const [loggedIn, setLoggedIn] = useState(false);
 
   return (
       <ThemeProvider theme={theme}>
-        <NavBar />
-        <Main />
+        <NavBar
+          loggedIn={loggedIn}
+          setLoggedIn={setLoggedIn}
+        />
+        <Main
+          loggedIn={loggedIn}
+          setLoggedIn={setLoggedIn}
+        />
       </ ThemeProvider>
   );
 }
