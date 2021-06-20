@@ -14,7 +14,7 @@ function Playlist() {
 
   return(
     <div >
-      <h1>This is the playlsit component</h1>
+      <h1>This is the Play List component</h1>
     </div>
   )
 }

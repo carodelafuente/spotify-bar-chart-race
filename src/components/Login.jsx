@@ -30,16 +30,22 @@ function Login(props)  {
 
   return(
       <Card className={classes.login}>
-        <Typography variant='h6' style={{marginLeft: '20px'}}>
+        <Typography variant='h6' style={{marginLeft: '15px'}}>
           Log in.
         </Typography>
-        <Grid container spacing={3} justify='flex-start'>
+        <Grid container spacing={4} justify='flex-start'>
           <Grid item>
             <Textfield variant='filled' id='username' label='Username' className={classes.text}/>
             <Textfield variant='filled' id='password' label='Password' className={classes.text}/>
           </ Grid>
           <Grid item>
-            <Button onClick={()=> props.setLoggedIn(!props.loggedIn)} size='large' variant='contained' color='primary' className={classes.button} style={{ color: 'white'}}>
+            <Button
+              onClick={()=> props.setLoggedIn(!props.loggedIn)}
+              size='large'
+              variant='contained'
+              color='primary'
+              className={classes.button}
+              style={{ color: 'white'}}>
               Log In
             </Button>
           < /Grid>

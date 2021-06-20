@@ -13,10 +13,26 @@ const useStyle = makeStyles((theme) => ({
     color: 'white',
     padding: '5px'
   },
-  userOptions: {
-    color: 'white',
-    flexGrow: 1,
+  userOptionsAll: {
+    display: 'flex',
+    justifyContent: 'space-evenly',
+    padding: 10,
+    position: 'absolute',
+    width: '20em',
+    right: '2px'
   },
+  userInfo: {
+    borderRight: '1px solid white',
+    display: 'flex',
+    justifyContent: 'space-evenly',
+    minWidth: '50%',
+  },
+  logOutButton: {
+    borderLeft: '1px solid white',
+    minWidth: '50%',
+    display: 'flex',
+    justifyContent: 'center',
+  }
 }));
 
 function NavBar(props) {
@@ -29,17 +45,22 @@ function NavBar(props) {
               <SocialIcon url='https://www.spotify.com/us/' />
               {
                 props.loggedIn &&
-                <div className={classes.userOptions}>
-                  <AccountCircle />
-                  <Typography variant='title'>
-                    Username
-                  </Typography>
-                  <Button
-                    onClick={()=> props.setLoggedIn(!props.loggedIn)}
-                    size='small'>
-                    Log Out
-                  </Button>
-                </div>
+                <div className={classes.userOptionsAll}>
+                  <div className={classes.userInfo}>
+                    <Typography variant='title' style={{marginTop: '.5em'}}>
+                      Clayton O.
+                    </Typography>
+                    <AccountCircle fontSize='large' />
+                    </div>
+                    <div className={classes.logOutButton}>
+                      <Button
+                        onClick={()=> props.setLoggedIn(!props.loggedIn)}
+                        color='secondary'
+                        size='small'>
+                        log out
+                      </Button>
+                    </div>
+                  </div>
               }
           </ToolBar>
         </AppBar>
