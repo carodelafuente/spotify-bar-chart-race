@@ -1,0 +1,729 @@
+{
+  "href" : "https://api.spotify.com/v1/users/1215758979/playlists?offset=0&limit=20",
+  "items" : [ {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3lcjN2JSi1SbLXxsFW4MSs"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3lcjN2JSi1SbLXxsFW4MSs",
+    "id" : "3lcjN2JSi1SbLXxsFW4MSs",
+    "images" : [ ],
+    "name" : "My Playlist #25",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MSwwODlmN2E5MjNlOWQ0ZTNhOWM2YWEwMDU1MTMyNGE4MjJhMzBiNTZh",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3lcjN2JSi1SbLXxsFW4MSs/tracks",
+      "total" : 0
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3lcjN2JSi1SbLXxsFW4MSs"
+  }, {
+    "collaborative" : false,
+    "description" : "Admit it. You thought these bands and singers were black when you first heard them",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1JDfgeHr74RmV8v1SULvwj"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1JDfgeHr74RmV8v1SULvwj",
+    "id" : "1JDfgeHr74RmV8v1SULvwj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2730dd88b28bb3ae8b42e28f94bab67616d0000b27316bdb09e49cda3ea9c5c156aab67616d0000b2733b4cadd2c04316e5968dae33ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2730dd88b28bb3ae8b42e28f94bab67616d0000b27316bdb09e49cda3ea9c5c156aab67616d0000b2733b4cadd2c04316e5968dae33ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2730dd88b28bb3ae8b42e28f94bab67616d0000b27316bdb09e49cda3ea9c5c156aab67616d0000b2733b4cadd2c04316e5968dae33ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
+      "width" : 60
+    } ],
+    "name" : "Bobby Caldwell All-Stars",
+    "owner" : {
+      "display_name" : "David Sizemore",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/davesize22"
+      },
+      "href" : "https://api.spotify.com/v1/users/davesize22",
+      "id" : "davesize22",
+      "type" : "user",
+      "uri" : "spotify:user:davesize22"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "OTYsYzdkN2QxNDczOGJkOWFkODFlNDY0N2ViMmYyOWJhOGM5MmFiNDYxMA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1JDfgeHr74RmV8v1SULvwj/tracks",
+      "total" : 91
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1JDfgeHr74RmV8v1SULvwj"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4LWzrFkcDXKeAmBQHqZQUn"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4LWzrFkcDXKeAmBQHqZQUn",
+    "id" : "4LWzrFkcDXKeAmBQHqZQUn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+      "width" : 640
+    } ],
+    "name" : "RE: Scorpion",
+    "owner" : {
+      "display_name" : "Tim",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/pxvm16k0ofwzm6ogioi43k3ji"
+      },
+      "href" : "https://api.spotify.com/v1/users/pxvm16k0ofwzm6ogioi43k3ji",
+      "id" : "pxvm16k0ofwzm6ogioi43k3ji",
+      "type" : "user",
+      "uri" : "spotify:user:pxvm16k0ofwzm6ogioi43k3ji"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NzcsZDMyYzE5ZDU4NzI1YTc2MmY2MzVjYTlmMWQzOTYzMDU1NDAyNWIyZA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4LWzrFkcDXKeAmBQHqZQUn/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4LWzrFkcDXKeAmBQHqZQUn"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3Mx1y2sMmmIhzV03qoBsqW"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3Mx1y2sMmmIhzV03qoBsqW",
+    "id" : "3Mx1y2sMmmIhzV03qoBsqW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b273045012ae67bdd164b48adb9eab67616d0000b273263555eebbe2b375593aa31eab67616d0000b273a5aef98a1762d0f64bb6ed9aab67616d0000b273d9194aa18fa4c9362b47464f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b273045012ae67bdd164b48adb9eab67616d0000b273263555eebbe2b375593aa31eab67616d0000b273a5aef98a1762d0f64bb6ed9aab67616d0000b273d9194aa18fa4c9362b47464f",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b273045012ae67bdd164b48adb9eab67616d0000b273263555eebbe2b375593aa31eab67616d0000b273a5aef98a1762d0f64bb6ed9aab67616d0000b273d9194aa18fa4c9362b47464f",
+      "width" : 60
+    } ],
+    "name" : "inspo",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NzUsZmU1MTViNzA0MmIzOGQ1YTc4ZWMyODcyZWIzYTQ4ZmE1YmNlMjQzYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3Mx1y2sMmmIhzV03qoBsqW/tracks",
+      "total" : 66
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3Mx1y2sMmmIhzV03qoBsqW"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3ULfIIxfUW4XaaPLNYPNtT"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3ULfIIxfUW4XaaPLNYPNtT",
+    "id" : "3ULfIIxfUW4XaaPLNYPNtT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+      "width" : 640
+    } ],
+    "name" : "Sad white men",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NSxmYWU1ZWVkNjk3NGRjMGY3YzUzMzBiNTI0ODU2ZWM1NjhhM2U0YTZh",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3ULfIIxfUW4XaaPLNYPNtT/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3ULfIIxfUW4XaaPLNYPNtT"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37RPIVnIJIfskv2bljVQ5n"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37RPIVnIJIfskv2bljVQ5n",
+    "id" : "37RPIVnIJIfskv2bljVQ5n",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb1ec2422bc2d7c7351da06ab1",
+      "width" : null
+    } ],
+    "name" : "I have a recurrent dream",
+    "owner" : {
+      "display_name" : "teju cole",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/tejucole"
+      },
+      "href" : "https://api.spotify.com/v1/users/tejucole",
+      "id" : "tejucole",
+      "type" : "user",
+      "uri" : "spotify:user:tejucole"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "NTcsMjJjNjRkMDQ2NmZjZjdmODU5Zjg2NmI0MmM3ZmY4YmUwOTNjNTMzYw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37RPIVnIJIfskv2bljVQ5n/tracks",
+      "total" : 16
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37RPIVnIJIfskv2bljVQ5n"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5h0gbzTBATdHKVpzcQEDIV"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5h0gbzTBATdHKVpzcQEDIV",
+    "id" : "5h0gbzTBATdHKVpzcQEDIV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2738b68d772e75d4f280cea0ef0",
+      "width" : 640
+    } ],
+    "name" : "spirits",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTAsN2Y2MDFkYTcyYzJjYmI3YjFjM2E1ZDFmZTBlMmQ1MDA5MWRkYjRmZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5h0gbzTBATdHKVpzcQEDIV/tracks",
+      "total" : 5
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5h0gbzTBATdHKVpzcQEDIV"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0TMvTfkAYTBJImbMuWE4vx"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0TMvTfkAYTBJImbMuWE4vx",
+    "id" : "0TMvTfkAYTBJImbMuWE4vx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273c34c84629aa6f6e1c8ba5ac7",
+      "width" : 640
+    } ],
+    "name" : "retrofuture",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTksZDMwMTJhNGJjYzNlMTg4OGRhZTZhNzA3OTQyMDgzMDU3YTA5MTdkMA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0TMvTfkAYTBJImbMuWE4vx/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0TMvTfkAYTBJImbMuWE4vx"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5llkLeGzDhAUnXTwx2oPfn"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5llkLeGzDhAUnXTwx2oPfn",
+    "id" : "5llkLeGzDhAUnXTwx2oPfn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2733c1d085164d95d5bf4c322bbab67616d0000b273626ad9bb7d5f84c59652b161ab67616d0000b273aca059cebc1841277db22d1cab67616d0000b273dae82a57e7385bc847f9f495",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2733c1d085164d95d5bf4c322bbab67616d0000b273626ad9bb7d5f84c59652b161ab67616d0000b273aca059cebc1841277db22d1cab67616d0000b273dae82a57e7385bc847f9f495",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2733c1d085164d95d5bf4c322bbab67616d0000b273626ad9bb7d5f84c59652b161ab67616d0000b273aca059cebc1841277db22d1cab67616d0000b273dae82a57e7385bc847f9f495",
+      "width" : 60
+    } ],
+    "name" : "teen spirit",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NTIsZjdjOWE0ZGNkZWY0MzZkNWExNjkyYThiM2I4NWE1MzNjOWY3NzYzMQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5llkLeGzDhAUnXTwx2oPfn/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5llkLeGzDhAUnXTwx2oPfn"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2yP8m0FbpX0fVrTGP0h42i"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2yP8m0FbpX0fVrTGP0h42i",
+    "id" : "2yP8m0FbpX0fVrTGP0h42i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2734857775a8aa84b3a6b3daa1aab67616d0000b273778546801b62dc50f12827bfab67616d0000b273b9f7bba3d28fab3e964b3fddab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2734857775a8aa84b3a6b3daa1aab67616d0000b273778546801b62dc50f12827bfab67616d0000b273b9f7bba3d28fab3e964b3fddab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2734857775a8aa84b3a6b3daa1aab67616d0000b273778546801b62dc50f12827bfab67616d0000b273b9f7bba3d28fab3e964b3fddab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
+      "width" : 60
+    } ],
+    "name" : "zvzvz",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzgsOGVmN2QyYzIzY2ZmOWNkNmMyNzE1NTYxNWY3ZjM2OGQ4ZGFiM2Q2OQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2yP8m0FbpX0fVrTGP0h42i/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2yP8m0FbpX0fVrTGP0h42i"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4namdGmslBQe41CHq2mgdA"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4namdGmslBQe41CHq2mgdA",
+    "id" : "4namdGmslBQe41CHq2mgdA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2730ede770070357575bc050511ab67616d0000b273129e5d8b6526f5562af4cf96ab67616d0000b2733164437cb02167803e0f7f51ab67616d0000b27398260c528e6eec9dd431c1d7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2730ede770070357575bc050511ab67616d0000b273129e5d8b6526f5562af4cf96ab67616d0000b2733164437cb02167803e0f7f51ab67616d0000b27398260c528e6eec9dd431c1d7",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2730ede770070357575bc050511ab67616d0000b273129e5d8b6526f5562af4cf96ab67616d0000b2733164437cb02167803e0f7f51ab67616d0000b27398260c528e6eec9dd431c1d7",
+      "width" : 60
+    } ],
+    "name" : "Sine Qua Ra (Dio) ",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzMsZjBkMmQ4M2JkMzIxNTBkNTE4NjRkMGRkYWU0Y2UzYmU4NWU2OTZkZA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4namdGmslBQe41CHq2mgdA/tracks",
+      "total" : 9
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4namdGmslBQe41CHq2mgdA"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4HwyjnQu4L8YzVpUdV5Fzk"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4HwyjnQu4L8YzVpUdV5Fzk",
+    "id" : "4HwyjnQu4L8YzVpUdV5Fzk",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb78f511c28c822a56440b7e74",
+      "width" : null
+    } ],
+    "name" : "book of dreams",
+    "owner" : {
+      "display_name" : "teju cole",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/tejucole"
+      },
+      "href" : "https://api.spotify.com/v1/users/tejucole",
+      "id" : "tejucole",
+      "type" : "user",
+      "uri" : "spotify:user:tejucole"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MjcsYzdlNDFiNGMzOWYxZDRjNmYwMmY4MTNmYWY1NjNkOGMzNWM5ZTQwYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4HwyjnQu4L8YzVpUdV5Fzk/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4HwyjnQu4L8YzVpUdV5Fzk"
+  }, {
+    "collaborative" : false,
+    "description" : "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZEVXcSkY3dyoB4Ko"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXcSkY3dyoB4Ko",
+    "id" : "37i9dQZEVXcSkY3dyoB4Ko",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/mWPRb8Rd0xAOYvGqfNi4z9kA6agGNE__ZIAAl3GpgJDeG23r05VwtzlTpenuCi82nZtHmMDm1T1lGW5MoBnSiZQXDsf8Y5cq-iCp6UcOS-R4jew2aSTa3g9xRVBG-tGTv-9zcZZvkRkY2a6p243OAa0sAF97nEZtuAh8-oEjSmGGIip4su-eZnIalW5vPBP0rnM6KlfPfkzpgzIs29bxlJPqWycReHY9vEaUWcHkvi4WGDHZeV0XTg5D9OOm_xm8OJ0DLKB4ibwX8LPsJ-H0w1_muJLAV_qwoGEr8C8SbOW-W6BMtS0_1iOPR8DhHdqeigONUJ_BzS0IxaWC9SGZkhNTAAk0ugrKQtd85i3bmTWpkq0dFKcC-dju_XvS9k2xA7yiVO0pBqeN8Q82DiHj13WyEguRWEmqumNFlxmtOAO7MeYZh0l25aoiu93OBP-QQqdhZQvz4Ijc8umDU96-Mg==/OTU6NDA6MTFUMzAtNzAtMQ==",
+      "width" : null
+    } ],
+    "name" : "Discover Weekly",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : false,
+    "snapshot_id" : "MCwwMDAwMDAwMGNiNTVjNDg0NDQxMTdkN2UwNjllNDMzM2MyZWMxODhl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXcSkY3dyoB4Ko/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZEVXcSkY3dyoB4Ko"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1BSNXPNPGf5jVNRTBexpIz"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1BSNXPNPGf5jVNRTBexpIz",
+    "id" : "1BSNXPNPGf5jVNRTBexpIz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27384e74436f9a25c8d0ba95213ab67616d0000b273df55e326ed144ab4f5cecf95ab67616d0000b273eddb2639b74ac6c202032ebeab67616d0000b273f03d5a6a2aeed6717a92f17c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27384e74436f9a25c8d0ba95213ab67616d0000b273df55e326ed144ab4f5cecf95ab67616d0000b273eddb2639b74ac6c202032ebeab67616d0000b273f03d5a6a2aeed6717a92f17c",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27384e74436f9a25c8d0ba95213ab67616d0000b273df55e326ed144ab4f5cecf95ab67616d0000b273eddb2639b74ac6c202032ebeab67616d0000b273f03d5a6a2aeed6717a92f17c",
+      "width" : 60
+    } ],
+    "name" : "Starred",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MiwyYWM3Mzc0N2ZjZTkzOWM1MTI4NDc5NTNmNzljZTljOWQ3ZTJlY2Rl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1BSNXPNPGf5jVNRTBexpIz/tracks",
+      "total" : 145
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1BSNXPNPGf5jVNRTBexpIz"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2BIFPB44l8w2v9b5TxstIM"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2BIFPB44l8w2v9b5TxstIM",
+    "id" : "2BIFPB44l8w2v9b5TxstIM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273358d3df585a2d72463556d7f",
+      "width" : 640
+    } ],
+    "name" : "Versace (Remix)",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Miw3ZmI3NjQ5YjYzMDE4ZWI3YzQzYzJkY2ZhM2JkYzRmMWU0OWJhMzlk",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2BIFPB44l8w2v9b5TxstIM/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2BIFPB44l8w2v9b5TxstIM"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4w2iznsmUqm8LGTSVZX0EY"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4w2iznsmUqm8LGTSVZX0EY",
+    "id" : "4w2iznsmUqm8LGTSVZX0EY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34",
+      "width" : 640
+    } ],
+    "name" : "Chandelier",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTYsYmM3ODEzOTJjOGUzMjIyNDFmYmYwZjVhNjkzMjk0YmJhMDU1YTlkYw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4w2iznsmUqm8LGTSVZX0EY/tracks",
+      "total" : 15
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4w2iznsmUqm8LGTSVZX0EY"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6nQwauNIi3RlQOPI3K4p4P"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6nQwauNIi3RlQOPI3K4p4P",
+    "id" : "6nQwauNIi3RlQOPI3K4p4P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b27317bc002367b006c2bce1c4a7ab67616d0000b273d15e9e36ce183a9031322c45ab67616d0000b273de0cd11d7b31c3bd1fd5983dab67616d0000b273ef6a9d0982c317c049c45306",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b27317bc002367b006c2bce1c4a7ab67616d0000b273d15e9e36ce183a9031322c45ab67616d0000b273de0cd11d7b31c3bd1fd5983dab67616d0000b273ef6a9d0982c317c049c45306",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b27317bc002367b006c2bce1c4a7ab67616d0000b273d15e9e36ce183a9031322c45ab67616d0000b273de0cd11d7b31c3bd1fd5983dab67616d0000b273ef6a9d0982c317c049c45306",
+      "width" : 60
+    } ],
+    "name" : "playlist ",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTksMDlmYmRmMTJlZjA1ZjhmODdlYjMxNDRjYWExYjU2MDU1MzNhMGZkNw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6nQwauNIi3RlQOPI3K4p4P/tracks",
+      "total" : 16
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6nQwauNIi3RlQOPI3K4p4P"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6IYBlCuxwbiatZv1Uq8ToY"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6IYBlCuxwbiatZv1Uq8ToY",
+    "id" : "6IYBlCuxwbiatZv1Uq8ToY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ab67616d0000b2731e11df565134deafff674368ab67616d0000b273894ae4df775c6b47438991afab67616d0000b273a7ea08ab3914c5fb2084a8acab67616d0000b273b1ddb9f5f519e0d37bc94a53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ab67616d0000b2731e11df565134deafff674368ab67616d0000b273894ae4df775c6b47438991afab67616d0000b273a7ea08ab3914c5fb2084a8acab67616d0000b273b1ddb9f5f519e0d37bc94a53",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ab67616d0000b2731e11df565134deafff674368ab67616d0000b273894ae4df775c6b47438991afab67616d0000b273a7ea08ab3914c5fb2084a8acab67616d0000b273b1ddb9f5f519e0d37bc94a53",
+      "width" : 60
+    } ],
+    "name" : "Jimmy Fallon & Justin Timberlake's History of Rap",
+    "owner" : {
+      "display_name" : "Joe Heller",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/hellerj8"
+      },
+      "href" : "https://api.spotify.com/v1/users/hellerj8",
+      "id" : "hellerj8",
+      "type" : "user",
+      "uri" : "spotify:user:hellerj8"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTU3LDI4ZjFiMDRiYTQzZjkwYjg4ZWE2ODljMWUwNGE3N2Q4N2NmOGY0ODg=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6IYBlCuxwbiatZv1Uq8ToY/tracks",
+      "total" : 118
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6IYBlCuxwbiatZv1Uq8ToY"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3sPua6bxJ7iJc2wpCeo0cN"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3sPua6bxJ7iJc2wpCeo0cN",
+    "id" : "3sPua6bxJ7iJc2wpCeo0cN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c",
+      "width" : 640
+    } ],
+    "name" : "We Can't Stop",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTgsYzhmMzg4NGVhYmFhNzZmOWVlZDQ1MDkyNDg1NTc5MzU2YmY3NDAxYw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3sPua6bxJ7iJc2wpCeo0cN/tracks",
+      "total" : 17
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3sPua6bxJ7iJc2wpCeo0cN"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5wuJCod58FmPVQgZQhh4w0"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5wuJCod58FmPVQgZQhh4w0",
+    "id" : "5wuJCod58FmPVQgZQhh4w0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27301cea1c72ff0039ee7f81823",
+      "width" : 640
+    } ],
+    "name" : "Phosphorescent - Muchacho",
+    "owner" : {
+      "display_name" : "Victor Recabarren",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1215758979"
+      },
+      "href" : "https://api.spotify.com/v1/users/1215758979",
+      "id" : "1215758979",
+      "type" : "user",
+      "uri" : "spotify:user:1215758979"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MyxkZTM3MmViYjYwODNiMjgzOWQyYmI1ZDE2MTU0MDFiZDg5NTRlMTQ0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5wuJCod58FmPVQgZQhh4w0/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5wuJCod58FmPVQgZQhh4w0"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/users/1215758979/playlists?offset=20&limit=20",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 31
+}
