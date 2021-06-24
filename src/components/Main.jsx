@@ -1,5 +1,5 @@
 // Dependencies
-import React, { useState, useCallback } from 'react';
+import React from 'react';
 
 // Style components
 import Container from '@material-ui/core/Container';
