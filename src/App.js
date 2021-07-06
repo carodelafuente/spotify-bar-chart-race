@@ -1,24 +1,41 @@
-import logo from './logo.svg';
+// Dependencies
+import { React, useState } from 'react';
+
+// Components
+import NavBar from './components/NavBar.jsx';
+import Main from './components/Main.jsx';
+
+// Style
 import './App.css';
+import { ThemeProvider, createMuiTheme} from '@material-ui/core/styles';
+
+const theme = createMuiTheme({
+  palette:  {
+    primary:  {
+      main: '#1db954'
+    },
+    secondary:  {
+      main: '#FFF'
+    }
+  }
+});
+
 
 function App() {
+
+  const [loggedIn, setLoggedIn] = useState(false);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <ThemeProvider theme={theme}>
+        <NavBar
+          loggedIn={loggedIn}
+          setLoggedIn={setLoggedIn}
+        />
+        <Main
+          loggedIn={loggedIn}
+          setLoggedIn={setLoggedIn}
+        />
+      </ ThemeProvider>
   );
 }
 
